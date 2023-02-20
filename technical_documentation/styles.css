@@ -78,6 +78,16 @@ code {
     color: black;
 }
  
+section li {
+    margin: 15px 10px;
+}
+
+section article {
+    margin: 15px;
+    font-size: 0.96em;
+    color: #4d4e53;
+
+}
 
 @media screen and (max-width: 350px) {
     .navbar a {
